@@ -414,6 +414,7 @@ button {
     float: left;
     background-color: #ffffff;
     margin-top: 70px;
+    border-bottom: 5px solid #e05306;
 }
 
 .about_taital {
