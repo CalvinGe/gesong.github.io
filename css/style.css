@@ -357,7 +357,7 @@ button {
 .lorem_text {
     width: 100%;
     float: left;
-    font-size: 16px;
+    font-size: 18px;
     color: #ffffff;
     margin-left: 0px;
 }
@@ -412,30 +412,33 @@ button {
 .about_section {
     width: 100%;
     float: left;
-    background-color: #000;
+    background-color: #ffffff;
     margin-top: 70px;
 }
 
 .about_taital {
-    width: 63%;
+    width: 100%;
     float: right;
-    margin-top: 80px;
+    margin-top: 20px;
+    margin-left: 0px;
 }
 
 .about_text {
     width: 100%;
     float: left;
     font-size: 40px;
-    color: #ffffff;
+    margin-left: 210px;
+    color: #000000;
     font-weight: bold;
 }
 
 .long_text {
     width: 100%;
     float: left;
-    font-size: 16px;
-    color: #ffffff;
-    margin-left: 0px;
+    font-size: 14px;
+    color: #000000;
+    margin-left: 60px;
+    margin-top: 20px;
 }
 
 .about_bt a {
@@ -448,6 +451,7 @@ button {
     height: 50px;
     font-weight: bold;
     margin-top: 40px;
+    margin-left: 180px;
     text-align: center;
     padding-top: 12px;
     display: inline-block;
@@ -464,8 +468,9 @@ button {
 }
 
 .about_img {
-    width: 100%;
-    float: left;
+    width: 80%;
+    float: right;
+    
 }
 
 .our_section {
