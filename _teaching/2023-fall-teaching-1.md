@@ -22,16 +22,16 @@ Quantum Mechanics
 Molecular Modeling with Spartan
 ======
 
-
+<img src="./spartan.png" alt="spartan" width = "500" height = "255" />
 
 Integrated Rate Laws
 ======
 
-
+<img src="./2023fall_kinetics.png" alt="kinetics" width = "500" height = "255" />
 
 # Freezing Point Depression
 
-
+<img src="./2023fall_freeze.png" alt="freeze" width = "255" height = "360" />
 
 # Electrochemistry
 
