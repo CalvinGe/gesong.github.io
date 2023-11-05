@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Physics of Life"
 title_separator          : "-"
-name                     : &name "Ge Song"
+name                     : &name "Ge Song宋歌"
 description              : &description "personal description"
 url                      : https://calvinge.github.io/gesong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ge Song"
-  avatar           : "profile.png"
+  name             : "Ge Song 宋歌"
+  avatar           : "profile.jpg"
   bio              : "PhD student in computational chemistry"
   location         : "Durham, North Carolina"
   employer         :

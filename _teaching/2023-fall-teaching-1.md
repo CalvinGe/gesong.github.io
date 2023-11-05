@@ -12,13 +12,27 @@ I have teached five labs of Chem 110 Honor Undergraduate course: 1. Quantum Mech
 
 My jobs were mainly discussing the pre-lab materials, teaching 3 classes (each 8-10 ppl) in lab and grading for the reports.
 
-![quantum mechanis](./2023fall_qm.jpg) 
+ 
 
-Heading 1
+Quantum Mechanics
 ======
 
-Heading 2
+![quantum mechanis](./2023fall_qm.jpg)
+
+Molecular Modeling with Spartan
 ======
 
-Heading 3
+
+
+Integrated Rate Laws
 ======
+
+
+
+# Freezing Point Depression
+
+
+
+# Electrochemistry
+
+<img src="./2023fall_electro.jpg" alt="electro" style="zoom:80%;" />
