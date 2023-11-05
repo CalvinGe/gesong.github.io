@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Physics of Life"
 title_separator          : "-"
-name                     : &name "Ge Song"
+name                     : &name "Ge Song 宋歌"
 description              : &description "personal description"
 url                      : https://calvinge.github.io/gesong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,9 +86,9 @@ author:
   location         : "Durham, North Carolina"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&inst=10163712085368340378&pli=1&user=MtLj6n0AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Ge-Song-34"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "calvinge"
+  github           : "https://github.com/CalvinGe/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2782-2023"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
