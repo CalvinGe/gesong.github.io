@@ -17,7 +17,7 @@ My jobs were mainly discussing the pre-lab materials, teaching 3 classes (each 8
 Quantum Mechanics
 ======
 
-![quantum mechanis](./2023fall_qm.jpg)
+<img src="./2023fall_qm.jpg" alt="qm"  width = "380" height = "305" />
 
 Molecular Modeling with Spartan
 ======
@@ -35,4 +35,5 @@ Integrated Rate Laws
 
 # Electrochemistry
 
-<img src="./2023fall_electro.jpg" alt="electro" style="zoom:80%;" />
+<img src="./2023fall_electro.jpg" alt="electro"  width = "220" height = "300" />
+
