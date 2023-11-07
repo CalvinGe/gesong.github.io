@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<i>If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning.</i>                                            
+<font size=2><i>If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning.</i></font>                                              
 
--Richard P. Feynman
+<font size=2>-Richard P. Feynman</font>     
 
- 若欲精通某事，便需将其教给他人。
+<font size=2> 若欲精通某事，便需将其教给他人。</font>     
 
-——理查德·费曼    
+<font size=2>——理查德·费曼  </font>     
 
 # Research Interests
 
@@ -26,6 +26,3 @@ My General research interest is to explore the physics principles underlying lif
 * Development of RNA force field
 * Development of machine learned force field
 
-Template Info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
