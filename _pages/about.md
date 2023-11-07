@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-<font size=2><i>If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning.</i></font>                                              
+<font size=2><i>If you want to master something, teach it.</i></font>                                            
+
+ <font size=2></font>     
 
 <font size=2>-Richard P. Feynman</font>     
 
-<font size=2> 若欲精通某事，便需将其教给他人。</font>     
+<font size=2> </font> <font size=2></font>     
+
+<font size=2> 若欲精通某事，便需将其教给他人。</font>    
+
+ <font size=2></font>     
 
 <font size=2>——理查德·费曼  </font>     
 
