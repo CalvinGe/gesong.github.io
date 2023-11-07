@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+<i>If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning.</i>                                            
+
+-Richard P. Feynman
+
+ 若欲精通某事，便需将其教给他人。
+
+——理查德·费曼    
+
 # Research Interests
 
 My General research interest is to explore the physics principles underlying life systems and apply them to improve health. To address this goal, I'm investigating and modeling the interaction in biomolecules by theoretical and compuational chemistry.
