@@ -37,3 +37,6 @@ Integrated Rate Laws
 
 <img src="./2023fall_electro.jpg" alt="electro"  width = "220" height = "300" />
 
+Here's what the last working hoods look like:
+
+<img src="./2023fall_electro2.jpg" alt="electro2"  width = "300" height = "230" />
