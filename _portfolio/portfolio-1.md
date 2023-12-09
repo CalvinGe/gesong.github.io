@@ -1,6 +1,6 @@
 ---
 title: "Hardware"
-excerpt: "I currently own a personal computational resource GPU01<br/>"
+excerpt: "I currently own a personal computational resource GPU01<br/><img src="./gpu01.jpg" />"
 collection: Gallery
 ---
 
