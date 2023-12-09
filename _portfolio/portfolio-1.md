@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Hardware"
+excerpt: "This is my personal computation resource GPU01<br/><img src='/images/gpu-1.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+It was purchased on the 'black Friday' of 2023, containing powerful engine for training a machine learning force field!
