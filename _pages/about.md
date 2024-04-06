@@ -31,3 +31,5 @@ To describe and simulate such dynamic biomolecular interactions, empirical physi
 The lesson I learned from previous research is that biomolecular interaction involves quantum mechanics effects, which empirical force fields poorly describe. Therefore, I‘m about to utilize the brute force of AI to achieve robust and accurate simulations of biomolecules by correcting the interactions involving quantum effects.
 
 For a long time, I have wanted to figure out the essence of life. If the aforementioned AI model successfully achieves precise simulations of all biomolecules, I believe I could find the answers I seek within them.
+
+<img src="./pictures/rna_test.jpeg" alt="qm"/>
