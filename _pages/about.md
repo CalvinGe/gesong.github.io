@@ -22,6 +22,8 @@ redirect_from:
 
 <font size=2>——理查德·费曼  </font>     
 
+
+
 # Research Interests
 
 My General research interest is to explore the physics principles underlying life systems and apply them to improve health. To address this goal, I'm investigating and modeling the interaction in biomolecules by theoretical and compuational chemistry.
@@ -32,7 +34,7 @@ The lesson I learned from previous research is that biomolecular interaction inv
 
 For a long time, I have wanted to figure out the essence of life. If the aforementioned AI model successfully achieves precise simulations of all biomolecules, I believe I could find the answers I seek within them.
 
-## Ongoing Project
+## Ongoing Projects
 
 * Development of Force Fields for Phospho-proteins
 * Development of Force Fields for RNAs
