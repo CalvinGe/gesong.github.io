@@ -32,5 +32,7 @@ The lesson I learned from previous research is that biomolecular interaction inv
 
 For a long time, I have wanted to figure out the essence of life. If the aforementioned AI model successfully achieves precise simulations of all biomolecules, I believe I could find the answers I seek within them.
 
+<img src="./images/fb18cmap.jpeg" alt="qm" >
+
 <img src="./images/rna_test.jpg" alt="qm" >
 
