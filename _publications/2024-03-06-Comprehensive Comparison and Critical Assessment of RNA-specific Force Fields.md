@@ -6,9 +6,9 @@ excerpt: 'Our findings highlight significant challenges in maintaining stability
 date: 2024-03-06
 venue: 'Journal of Chemical Theory and Computation'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.jctc.4c00066'
-citation: 'J. Chem. Theory Comput. 2024, XXXX, XXX, XXX-XXX'
+citation: 'J. Chem. Theory Comput. 2024, 20, 6, 2676–2688'
 ---
 
 Our findings highlight significant challenges in maintaining stability, particularly with regard to cross-strand and cross loop hydrogen bonds.
 
-Recommended citation: J. Chem. Theory Comput. 2024, XXXX, XXX, XXX-XXX
+<img src="./rna_test.jpeg" alt="qm"  width = "480" height = "225" />
