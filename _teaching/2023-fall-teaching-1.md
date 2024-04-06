@@ -2,7 +2,7 @@
 title: "General Chemistry Honor Course"
 collection: teaching
 type: "Lab Teaching"
-permalink: /teaching/2023-fall-teaching-3
+permalink: /teaching/2023-fall-teaching-1
 venue: "Duke University, Department of Chemistry"
 date: 2023-09-01
 location: "Durham, North carolina"
