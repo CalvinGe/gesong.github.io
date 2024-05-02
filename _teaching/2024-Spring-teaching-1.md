@@ -1,7 +1,7 @@
 ---
 title: "General Chemistry 101 lab"
 collection: teaching
-type: "Grading"
+type: "Lab Teaching/Grading"
 permalink: /teaching/2024-Spring-teaching-1
 venue: "Duke University, Department of Chemistry"
 date: 2024-01-01

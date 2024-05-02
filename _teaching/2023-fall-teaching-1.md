@@ -1,7 +1,7 @@
 ---
 title: "General Chemistry Honor Course"
 collection: teaching
-type: "Lab Teaching"
+type: "Lab Teaching/Grading"
 permalink: /teaching/2023-fall-teaching-1
 venue: "Duke University, Department of Chemistry"
 date: 2023-09-01
