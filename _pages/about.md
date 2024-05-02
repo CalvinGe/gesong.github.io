@@ -32,6 +32,18 @@ My General research interest is to explore the physics principles underlying lif
 
 
 
+# Current Project
+
+* **Development of Machine Learned Force Fields**
+
+  <img src="./images/mlff.jpeg" alt="qm"  width = "380" height = "305" />
+
+  > [image source: *Chem. Rev.* 2021, 121, 16, 10142–10186]
+
+---
+
+
+
 # Previous Work
 
 ---
@@ -68,19 +80,4 @@ My General research interest is to explore the physics principles underlying lif
 
   <img src="./images/cadd.png" alt="qm"  width = "380" height = "125" />
 
----
-
-
-
-# Current Project
-
----
-
-
-
-* Development of Machine Learned Force Fields
-
-  <img src="./images/mlff.jpeg" alt="qm"  width = "380" height = "305" />
-
-  > [image source: *Chem. Rev.* 2021, 121, 16, 10142–10186]
 
