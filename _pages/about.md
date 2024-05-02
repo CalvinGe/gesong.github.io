@@ -32,7 +32,7 @@ My General research interest is to explore the physics principles underlying lif
 
 * Development of Force Fields for Phospho-proteins
 
-  <img src="../images/fb18cmap.jpeg" alt="qm"  width = "380" height = "255" />
+  <img src="./images/fb18cmap.jpeg" alt="qm"  width = "380" height = "255" />
 
 * Development of Force Fields for RNAs
 
