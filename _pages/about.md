@@ -22,33 +22,47 @@ redirect_from:
 
 <font size=2>——理查德·费曼  </font>     
 
-
+---
 
 # Research Interests
 
 My General research interest is to explore the physics principles underlying life systems and apply them to improve health. To address this goal, I'm investigating and modeling the interaction in biomolecules by theoretical and compuational chemistry.
 
-## Previous Work
+# Previous Work
 
-* Development of Force Fields for Phospho-proteins
+
+
+* **Development of Force Fields for Phospho-proteins**
 
   > [GitHub - HFChenLab/FB18CMAP: FB18CMAP force field parameter](https://github.com/HFChenLab/FB18CMAP)
 
   <img src="./images/fb18cmap.jpeg" alt="qm"  width = "380" height = "255" />
 
-* Development of Force Fields for RNAs
+---
+
+
+
+* **Development of Force Fields for RNAs**
 
   <img src="./images/rna_test.jpg" alt="qm"  width = "380" height = "185" />
 
-* Automatic Sleep Stage Classification by Vision Transformer
+---
+
+
+
+* **Automatic Sleep Stage Classification by Neural Networks**
 
   >  [CalvinGe/Web-SleepViTNet (github.com)](https://github.com/CalvinGe/Web-SleepViTNet)
 
-* Computer-aided Drug Design
+---
+
+
+
+* **Computer-aided Drug Design**
 
   <img src="./images/cadd.png" alt="qm"  width = "380" height = "125" />
 
-## Current Project
+# Current Project
 
 * Development of Machine Learned Force Fields
 
