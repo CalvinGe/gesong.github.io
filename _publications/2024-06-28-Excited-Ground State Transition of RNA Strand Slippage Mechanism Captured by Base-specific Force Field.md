@@ -6,6 +6,6 @@ excerpt: '(Accepted article, coming soon)'
 date: 2024-06-28
 venue: 'Journal of Chemical Theory and Computation'
 paperurl: ''
-citation: ''
+citation: 'accepted in J. Chem. Theory Comput.'
 ---
 
