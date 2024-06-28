@@ -26,7 +26,7 @@ redirect_from:
 
 # Research Interests
 
-My General research interest is to explore the physics principles underlying life systems and apply them to improve health. To address this goal, I'm investigating and modeling the interaction in biomolecules by theoretical and compuational chemistry.
+My General research interest is to explore the physics principles underlying life systems and apply them to improve health. To address this goal, I'm investigating and modeling the interaction in biomolecules by developing force fields (https://en.wikipedia.org/wiki/Force_field_(chemistry)).
 
 ---
 
