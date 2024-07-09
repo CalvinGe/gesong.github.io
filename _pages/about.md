@@ -50,6 +50,16 @@ My General research interest is to explore the physics principles underlying lif
 
 
 
+* **Automatic Sleep Stage Classification by Neural Networks**
+
+  Preprint article: [[2407.04753\] Annotation of Sleep Depth Index with Scalable Deep Learning Yields Novel Digital Biomarkers for Sleep Health (arxiv.org)](https://export.arxiv.org/abs/2407.04753)
+
+  Web server software (Old version of SleepViTNet) : [CalvinGe/Web-SleepViTNet (github.com)](https://github.com/CalvinGe/Web-SleepViTNet)
+
+---
+
+
+
 * **Development of Force Fields for Phospho-proteins**
 
   [GitHub - HFChenLab/FB18CMAP: FB18CMAP force field parameter](https://github.com/HFChenLab/FB18CMAP)
@@ -68,16 +78,7 @@ My General research interest is to explore the physics principles underlying lif
 
 
 
-* **Automatic Sleep Stage Classification by Neural Networks**
-
-  [CalvinGe/Web-SleepViTNet (github.com)](https://github.com/CalvinGe/Web-SleepViTNet)
-
----
-
-
-
 * **Computer-aided Drug Design**
 
   <img src="./images/cadd.png" alt="qm"  width = "380" height = "125" />
-
 
