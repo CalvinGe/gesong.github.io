@@ -3,9 +3,6 @@ title: 'AI for Molecular Dynamics Labs'
 date: 2024-10-05
 permalink: /posts/ai4md/
 tags:
-  - Machine Learning
-  - Molecular Dynamics
-  - Research Labs
 ---
 
 # AI for Molecular Dynamics Labs 
