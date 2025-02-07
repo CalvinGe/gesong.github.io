@@ -39,6 +39,8 @@ My General research interest is to explore the physics principles underlying lif
   <img src="./images/toc.jpg" alt="qm"  width = "480" height = "305" />
 
   > NepoIP/MM is an open-source code for performing accurate ML/MM MD simulation with electrostatic embedding.
+  
+  To perform NepoIP/MM MD simulation, see [Yang-Laboratory/NepoIP: An open-source neural network for performing accurate ML/MM MD simulation with electrostatic embedding.](https://github.com/Yang-Laboratory/NepoIP) 
 
 ---
 
