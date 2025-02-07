@@ -36,7 +36,7 @@ My General research interest is to explore the physics principles underlying lif
 
 * **Development of Machine Learning Force Fields**
 
-  <img src="../images/toc.jpg" alt="qm"  width = "480" height = "305" />
+  <img src="./images/toc.jpg" alt="qm"  width = "480" height = "305" />
 
   > NepoIP/MM is an open-source code for performing accurate ML/MM MD simulation with electrostatic embedding.
 
