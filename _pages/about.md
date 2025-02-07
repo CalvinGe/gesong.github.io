@@ -34,11 +34,11 @@ My General research interest is to explore the physics principles underlying lif
 
 # Current Project
 
-* **Development of Machine Learned Force Fields**
+* **Development of Machine Learning Force Fields**
 
-  <img src="./images/mlff.jpeg" alt="qm"  width = "380" height = "305" />
+  <img src="../images/toc.jpg" alt="qm"  width = "480" height = "305" />
 
-  > [image source: *Chem. Rev.* 2021, 121, 16, 10142–10186]
+  > NepoIP/MM is an open-source code for performing accurate ML/MM MD simulation with electrostatic embedding.
 
 ---
 

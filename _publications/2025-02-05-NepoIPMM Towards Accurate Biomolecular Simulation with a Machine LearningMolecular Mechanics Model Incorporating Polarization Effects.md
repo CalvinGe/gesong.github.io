@@ -1,5 +1,5 @@
 ---
-title: "NepoIP/MM: Towards Accurate Biomolecular Simulation with a Machine LearningMolecular Mechanics Model Incorporating Polarization Effects"
+title: "NepoIP/MM: Towards Accurate Biomolecular Simulation with a Machine Learning/Molecular Mechanics Model Incorporating Polarization Effects"
 collection: publications
 permalink: /publication/2024-06-28-NepoIPMM Towards Accurate Biomolecular Simulation with a Machine LearningMolecular Mechanics Model Incorporating Polarization Effects
 excerpt: ''
