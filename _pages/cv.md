@@ -16,7 +16,7 @@ Education
   GPA: 89.37/100 (ranking 3/29)
 * Ph.D in Computational Chemistry, Duke University, 2023-
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
