@@ -33,6 +33,7 @@ Research experience
 ACHIEVEMENTS/AWARDS
 ======
 
+* *06/2025*: Peter Walter Jeffs Fellowship 
 * *06/2023*: Best Bachelor Thesis (Top 1%) of Shanghai Jiao Tong University     
 * *05/2023*: First Award in Shanghai “Challenge Cup” National College Student Curricular Academic Science and Technology Works Competition  
 * *05/2023*: Outstanding Graduate of Shanghai Jiao Tong University 
