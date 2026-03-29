@@ -4,7 +4,7 @@ collection: talks
 type: "Conference Talk"
 permalink: /talks/3/23/2026-NepoIPMM
 venue: "Georgia World Congress Center"
-date: 3/23/2026
+date: 2026-03-23
 location: "Atlanta, Georgia"
 ---
 
