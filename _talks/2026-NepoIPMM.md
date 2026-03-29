@@ -1,7 +1,7 @@
 ---
 title: "NepoIP/MM: Toward accurate biomolecular simulation with a machine learning/molecular mechanics model incorporating polarization effects"
 collection: talks
-type: "Conference Talk"
+type: "ACS Conference Oral Presentation"
 permalink: /talks/3/23/2026-NepoIPMM
 venue: "Georgia World Congress Center"
 date: 2026-03-23
