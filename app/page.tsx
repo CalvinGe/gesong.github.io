@@ -8,7 +8,7 @@ const publications = [
   ["Phosphorylation Modification Force Field FB18CMAP Improving Conformation Sampling of Phosphoproteins","Published in Journal of Chemical Information and Modeling, 2023","Song, G., et al., Phosphorylation Modification Force Field FB18CMAP Improving Conformation Sampling of Phosphoproteins. Journal of Chemical Information and Modeling 2023, 63, 1602-1614.","https://pubs.acs.org/doi/10.1021/acs.jcim.3c00112"],
 ];
 const gallery = [
-  ["ACTC","American Conference on Theoretical Chemistry. Met with Prof. Roald Hoffmann (Nobel Prize in Chemistry 1981) at the conference.","/images/hoffmann.jpg"],
+  ["ACTC 2024","American Conference on Theoretical Chemistry. Met with Prof. Roald Hoffmann (Nobel Prize in Chemistry 1981) at the conference.","/images/hoffmann.jpg"],
   ["D.E. Shaw","Met at NYU’s 2024 Simons Symposium","/images/deshaw1.jpg"],
   ["Duke’s Nobel Prize Medals in Chemistry","Located at Duke School of Medicine, there’re a 2012 and a 2015 Nobel Prize Medal in Chemistry exhibited","/images/medal.jpg"],
   ["Stanford","I visited stanford university in the Thanksgiving of 2023","/images/stf1.jpg"],
