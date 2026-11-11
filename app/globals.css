@@ -36,3 +36,15 @@ footer{min-height:170px;padding:50px max(7vw,40px);display:flex;align-items:cent
 .detail-placeholder{min-height:320px}.research-detail .post-header h1{font-size:clamp(42px,6vw,72px)}
 @media(max-width:620px){.research-directions{grid-template-columns:1fr;gap:22px}.research-card{padding:24px}.research-card h3{min-height:0}.detail-placeholder{min-height:220px}}
 @media(prefers-reduced-motion:reduce){.research-card{transition:none}}
+
+/* Compact research introduction in the opening section. */
+.hero{gap:clamp(36px,6vw,90px);padding-top:6vh;padding-bottom:6vh}
+.hero-copy .research-heading{font-size:clamp(28px,3vw,40px);letter-spacing:-.02em;margin:18px 0 24px}
+.hero-copy .research-directions{gap:18px 28px;margin:0 0 30px}
+.hero-copy .research-card{padding:0;border:0;background:transparent}
+.hero-copy .research-card:hover{background:transparent;color:var(--ochre)}
+.hero-copy .research-card h3{font-size:clamp(17px,1.6vw,21px);min-height:0;margin:0;line-height:1.4}
+.research-space{height:42px;margin-top:10px}
+.hero-copy blockquote{font-size:14px}.hero-copy blockquote cite{font-size:12px}
+@media(max-width:900px){.hero-copy{width:100%;text-align:left}.hero-copy blockquote{display:block}.hero{min-height:auto}.hero-copy .research-directions{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.hero-copy .research-directions{grid-template-columns:1fr;gap:12px}.research-space{height:24px;margin-top:4px}}
