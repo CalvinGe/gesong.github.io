@@ -50,3 +50,15 @@ footer{min-height:170px;padding:50px max(7vw,40px);display:flex;align-items:cent
 @media(max-width:620px){.hero-copy .research-directions{grid-template-columns:1fr;gap:12px}.research-space{height:24px;margin-top:4px}}
 
 .hero-copy h2.research-heading{font-weight:400;line-height:1.05}.hero-copy .research-directions{margin-bottom:20px}.hero-copy .research-space{height:26px}
+
+/* Research artwork and project descriptions. */
+.research-introduction{font-size:15px;line-height:1.75;color:var(--muted);margin:18px 0 28px;max-width:720px}
+.hero-copy .research-logo{height:102px;display:flex;align-items:center;margin:12px 0 0}
+.research-logo img{display:block;width:auto;max-width:min(100%,210px);max-height:100px;object-fit:contain}
+.research-inactive{cursor:default}.hero-copy .research-inactive:hover{color:var(--ink)}
+.research-detail-logo{margin:0 0 45px;display:flex;justify-content:flex-start;align-items:center}
+.research-detail-logo img{display:block;width:auto;max-width:100%;max-height:285px;object-fit:contain}
+.research-project{margin:0 0 48px}.research-project h2{font-size:32px;font-weight:400;line-height:1.3;margin:0 0 18px}
+.research-project p{font-size:17px;line-height:1.8}.research-resources{display:flex;flex-direction:column;align-items:flex-start;gap:10px}
+.resource-note{font-size:14px;color:var(--muted)}
+@media(max-width:620px){.research-introduction{font-size:14px}.hero-copy .research-logo{height:88px}.research-logo img{max-height:86px;max-width:190px}.research-detail-logo img{max-height:225px}.research-project h2{font-size:28px}}
