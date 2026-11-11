@@ -9,7 +9,7 @@ const Lab = ({name, children}:{name:string; children?:React.ReactNode}) => (
 export default function Ai4mdPost() {
   return <main>
     <header className="site-header">
-      <Link className="brand" href="/#home"><Seal/><span>Physics of Life</span></Link>
+      <Link className="brand" href="/#home"><Seal/><span>BioSim</span></Link>
       <nav><Link href="/#research">Research</Link><Link href="/#publications">Publications</Link><Link href="/#talks">Talks</Link><Link href="/#teaching">Teaching</Link><Link href="/#gallery">Gallery</Link><Link href="/#blog">Blog</Link></nav>
     </header>
 

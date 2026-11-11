@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Physics of Life — Ge Song 宋歌",
-  description: "Personal Academic Website of Ge",
+  title: "BioSim",
+  description: "Personal Website of Ge",
   other: {
     "codex-preview": "development",
   },

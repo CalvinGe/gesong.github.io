@@ -19,11 +19,11 @@ const Mark=({cn,en}:{cn:string,en:string})=><div className="section-mark"><span>
 
 export default function Home() {
   return <main>
-    <header className="site-header"><a className="brand" href="#home"><Seal/><span>Physics of Life</span></a><nav><a href="#research">Research</a><a href="#publications">Publications</a><a href="#talks">Talks</a><a href="#teaching">Teaching</a><a href="#gallery">Gallery</a><a href="#blog">Blog</a></nav></header>
+    <header className="site-header"><a className="brand" href="#home"><Seal/><span>BioSim</span></a><nav><a href="#research">Research</a><a href="#publications">Publications</a><a href="#talks">Talks</a><a href="#teaching">Teaching</a><a href="#gallery">Gallery</a><a href="#blog">Blog</a></nav></header>
     <section className="hero paper-section" id="home">
       <div className="hero-ink" aria-hidden="true"><span/><span/><span/></div>
       <aside className="profile"><h2>Ge Song 宋歌</h2><p>PhD student in computational chemistry</p><p className="place">Durham, North Carolina</p><div className="socials"><a href="https://www.researchgate.net/profile/Ge-Song-34">ResearchGate</a><a href="https://github.com/CalvinGe">Github</a><a href="https://scholar.google.com/citations?user=MtLj6n0AAAAJ">Google Scholar</a><a href="https://orcid.org/">ORCID</a></div><a className="cv-download" href={`${basePath}/Ge_Song_CV_2026.pdf`} download>Download CV <span aria-hidden="true">↓</span></a></aside>
-      <div className="hero-copy"><p className="eyebrow">PERSONAL ACADEMIC WEBSITE</p><h1>Personal Academic<br/>Website of Ge</h1><blockquote><p>If you want to master something, teach it.</p><cite>—Richard P. Feynman</cite><p>若欲精通某事，便需将其教给他人。</p><cite>——理查德·费曼</cite></blockquote></div>
+      <div className="hero-copy"><p className="eyebrow">PERSONAL WEBSITE</p><h1>Personal<br/>Website of Ge</h1><blockquote><p>If you want to master something, teach it.</p><cite>—Richard P. Feynman</cite><p>若欲精通某事，便需将其教给他人。</p><cite>——理查德·费曼</cite></blockquote></div>
     </section>
     <section className="content-section" id="research"><Mark cn="研" en="RESEARCH"/><div className="section-body">
       <h2>Research Interests</h2><p>I am interested in using AI to capture the high-dimensional, multiscale complexity of living systems and to build computational models that explain and predict complex biological processes, with potential applications in drug discovery, disease treatment, and healthy lifespan extension.</p>
